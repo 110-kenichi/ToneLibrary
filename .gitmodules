@@ -1,3 +1,3 @@
-[submodule "FM/OPN/DM-88"]
-	path = FM/OPN/DM-88
-	url = https://github.com/DM-88/FM-SoundLibrary
+[submodule "FM/OPN/knight-ryu12/mml2vgm/opn"]
+	path = FM/OPN/knight-ryu12/mml2vgm/opn
+	url = https://github.com/knight-ryu12/FMPatches
