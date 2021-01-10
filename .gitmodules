@@ -1,3 +1,6 @@
 [submodule "DM-88"]
 	path = DM-88
 	url = https://github.com/DM-88/FM-SoundLibrary
+[submodule "knight-ryu12"]
+	path = knight-ryu12
+	url = https://github.com/knight-ryu12/FMPatches
