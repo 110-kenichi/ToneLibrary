@@ -7,3 +7,6 @@
 [submodule "DM-88mk2"]
 	path = DM-88mk2
 	url = https://github.com/DM-88mkII/FM-SoundLibrary
+[submodule "kuma4649"]
+	path = kuma4649
+	url = https://github.com/kuma4649/ChipInstruments
